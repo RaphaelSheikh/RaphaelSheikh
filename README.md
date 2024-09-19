@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Scientist.
 - 🌱 I’m currently learning at Rutgers Data Science Bootcamp.
 - 💞️ I’m looking to collaborate on networking opportunities.
-- 📫 How to reach me Raphael.A.Sheikh@gmail.com || (551) 312 - 0493
+- 📫 How to reach me Raphael.A.Sheikh@gmail.com
 - ⚡ Fun fact: I like to play Basketball, Football, and going to the gym for a healthier lifestyle.
 
 <!---
